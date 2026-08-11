@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Abhinav-Pandit/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Abhinav-Pandit/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Abhinav-Pandit/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Abhinav-Pandit/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
